@@ -3,3 +3,4 @@ Ceci sont tous les exo de NSI au collége camille Sée de l'anée scolaire 2021 
 
 Si vous avez des question envoyez un email à cloudcompfun@gmail.com
 You can contact me at: cloudcompfun@gmail.com
+Or open an issue; ou ouvrez un issue.
